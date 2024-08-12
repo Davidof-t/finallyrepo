@@ -1,5 +1,2 @@
-</Users/daniel/Terraform[[:space:]]project[[:space:]]/main.tf> filter=lfs diff=lfs merge=lfs -text
-/Users/daniel/Terraform[[:space:]]project/main.tf filter=lfs diff=lfs merge=lfs -text
-main.tf filter=lfs diff=lfs merge=lfs -text
-.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.115.0/darwin_amd64/terraform-provider-azurerm_v3.115.0_x5 filter=lfs diff=lfs merge=lfs -text
+*.tf filter=lfs diff=lfs merge=lfs -text
 *.tfstate filter=lfs diff=lfs merge=lfs -text
